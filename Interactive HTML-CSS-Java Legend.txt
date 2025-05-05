@@ -1,0 +1,39 @@
+Legend for Creating Interactive Buttons in HTML
+
+1. Basic Button
+   HTML Code:
+   <button>Click Me</button>
+   Description:
+   Creates a simple button.
+
+2. Button with Link
+   HTML Code:
+   <a href="https://www.example.com" class="button">Go to Example</a>
+   Description:
+   A button styled as a link (requires CSS for styling).
+
+3. Button with JavaScript
+   HTML Code:
+   <button id="myButton">Click Me</button>
+   <script>
+       document.getElementById('myButton').onclick = () => alert('Hello!');
+   </script>
+   Description:
+   Adds interactivity using JavaScript.
+
+4. Styled Button
+   HTML Code:
+   <button style="background-color: blue; color: white;">Styled Button</button>
+   Description:
+   Inline styles to customize the button’s appearance.
+
+5. Button with Hover Effect
+   HTML Code:
+   <button class="hoverButton">Hover Me</button>
+   <style>
+       .hoverButton:hover {
+           background-color: green;
+       }
+   </style>
+   Description:
+   Changes the button’s appearance when hovered over.

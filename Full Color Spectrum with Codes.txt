@@ -1,0 +1,24 @@
+Full Color Spectrum with Codes
+
+Color          | Hex Code (HTML/CSS) | RGB Code (HTML/CSS)       | Java Color Code
+-------------------------------------------------------------------------------
+Black          | #000000             | rgb(0, 0, 0)             | new Color(0, 0, 0)
+Gray           | #808080             | rgb(128, 128, 128)       | new Color(128, 128, 128)
+White          | #FFFFFF             | rgb(255, 255, 255)       | new Color(255, 255, 255)
+Red            | #FF0000             | rgb(255, 0, 0)           | new Color(255, 0, 0)
+Green          | #00FF00             | rgb(0, 255, 0)           | new Color(0, 255, 0)
+Blue           | #0000FF             | rgb(0, 0, 255)           | new Color(0, 0, 255)
+Cyan           | #00FFFF             | rgb(0, 255, 255)         | new Color(0, 255, 255)
+Magenta        | #FF00FF             | rgb(255, 0, 255)         | new Color(255, 0, 255)
+Yellow         | #FFFF00             | rgb(255, 255, 0)         | new Color(255, 255, 0)
+Orange         | #FFA500             | rgb(255, 165, 0)         | new Color(255, 165, 0)
+Pink           | #FFC0CB             | rgb(255, 192, 203)       | new Color(255, 192, 203)
+Purple         | #800080             | rgb(128, 0, 128)         | new Color(128, 0, 128)
+Brown          | #A52A2A             | rgb(165, 42, 42)         | new Color(165, 42, 42)
+Light Gray     | #D3D3D3             | rgb(211, 211, 211)       | new Color(211, 211, 211)
+Dark Gray      | #A9A9A9             | rgb(169, 169, 169)       | new Color(169, 169, 169)
+Light Blue     | #ADD8E6             | rgb(173, 216, 230)       | new Color(173, 216, 230)
+Light Green    | #90EE90             | rgb(144, 238, 144)       | new Color(144, 238, 144)
+Light Yellow   | #FFFFE0             | rgb(255, 255, 224)       | new Color(255, 255, 224)
+Teal           | #008080             | rgb(0, 128, 128)         | new Color(0, 128, 128)
+Navy           | #000080             | rgb(0, 0, 128)           | new Color(0, 0, 128)
